@@ -13,7 +13,7 @@ export default function Navbar() {
                 
                 <NavLink to="/" className="navbar-brand col-md-3">
                     <img className="logo" src={logo} alt="logo" width="15%" />
-                    Apps Lean IT  
+                    Lean Sis Sigma Sis  
                 </NavLink>
 
                 <div className="container" id="navbarSupportedContent">
@@ -38,24 +38,25 @@ export default function Navbar() {
                             <NavLink 
                                 to="/servicios" 
                                 className="nav-link navbar-text"
+                                smooth
                             >
                                 Servicios
                             </NavLink>
-                        </li>      
+                        </li>  
                         <li className="nav-item">
                             <NavLink 
-                                to="/metodologia" 
+                                to="/formacion" 
                                 className="nav-link navbar-text"
                             >
-                                Metodología
+                                Formación
                             </NavLink>
                         </li>      
                         <li className="nav-item">
                             <NavLink 
-                                to="/productos" 
+                                to="/certificacion" 
                                 className="nav-link navbar-text"
                             >
-                                Productos
+                                Certificación
                             </NavLink>
                         </li>  
                         <li className="nav-item">
@@ -85,7 +86,7 @@ export default function Navbar() {
                     {/*--- <button class="btn btn-sm btn-outline-secondary btn-lg text-white" type="button">Llámanos 648 808 368</button>
                     <a href="#" class="btn btn-button1 btn-sm" role="button" aria-pressed="true">Primary link</a>--*/}
                     <a 
-                        href="https://api.whatsapp.com/send?phone=34648808368&text=Gracias%20por%20contactar%20a%20Apps%20Lean%20IT.%20%C2%BFEn%20que%20te%20puedo%20ayudar?" 
+                        href="https://api.whatsapp.com/send?phone=34648808368&text=Gracias%20por%20contactar%20a%20Lean%20Six%20Sigma%20Sis.%20%C2%BFEn%20que%20te%20puedo%20ayudar?" 
                         className="btn btn-sm btn-outline-secondary btn-lg text-white" 
                         role="button" 
                         aria-pressed="true"

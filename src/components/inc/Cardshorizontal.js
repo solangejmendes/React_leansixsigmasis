@@ -15,7 +15,7 @@ import image9 from '../../assets/images/Logistica_Inversa.PNG'
 const cards = [
     {
         id: 1,
-        title: 'Lean Auditorías 5s',
+        title: 'Formación',
         image: image1,
         text: "Aplicación móvil para contestar a pie de operación a preguntas relacionadas con los criterios de buenas prácticas de Lean 5s. Formulario libre o accesible por medio de código de acceso. Cálculo del resultado final obtenido. Varias notificaciones automáticas por email a los equipos responsables por las áreas evaluadas. Consulta de formularios por distintos filtros.",
         url: 'https://www.youtube.com/watch?v=nMTd6FXW4n4'

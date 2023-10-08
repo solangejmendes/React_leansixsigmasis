@@ -1,54 +1,54 @@
 import React from 'react'
 import Card from './Card'
 
-import image1 from '../../assets/images/MobileApp2.jpg'
-import image2 from '../../assets/images/iot2.jpg'
-import image3 from '../../assets/images/office365.jpg'
-import image4 from '../../assets/images/security.jpg'
-import image5 from '../../assets/images/PowerAutomate.png'
-import image6 from '../../assets/images/flexibility.jpg'
+import image1 from '../../assets/images/CSSC-MBB.png'
+import image2 from '../../assets/images/CSSC-BB.png'
+import image3 from '../../assets/images/CSSC-GB.png'
+import image4 from '../../assets/images/CSSC-YB.png'
+import image5 from '../../assets/images/CSSC-WB.png'
+import image6 from '../../assets/images/Vitamina.jpg'
 
 const cards = [
     {
         id: 1,
-        title: 'Aplicaciones móviles',
+        title: 'Lean Six Sigma Master Black Belt',
         image: image1,
-        text: "Además de aplicaciones de desktop, se puede desarrollar aplicaciones móviles totalmente responsive a los distintos tamaños de pantalla.",
+        text: "Lidera el despliegue lean six sigma, la gestión de los proyectos DMAIC y obtiene la certificación reconocida por entidades acreditadoras internacionales.",
         url: 'https://youtube.com/appsleanIT'
     },
     {
         id: 2,
-        title: 'Funcionalidad IoT',
+        title: 'Lean Six Sigma Black Belt',
         image: image2,
-        text: "Utilización de la cámara de fotos para lectura de códigos de barra y códigos QR, subir fotos para una gestión online de incidencias u operaciones.",
+        text: "Lidera proyectos de alto nivel utilizando la metodología DMAIC y obtiene la certificación reconocida por entidades acreditadoras internacionales.",
         url: 'https://youtube.com/appsleanIT'
     },
     {
         id: 3,
-        title: 'Integración ',
+        title: 'Lean Six Sigma Green Belt ',
         image: image3,
-        text: 'Aplicaciones totalmente integradas con herramientas de Microsoft Office 365 (Teams para trabajo en equipo, planificación de tareas en planner, notificaciones por email, ...).',
+        text: 'Lidera proyectos lean y six sigma y obtiene la certificación reconocida por entidades acreditadoras internacionales.',
         url: 'https://youtube.com/appsleanIT'
     },
     {
         id: 4,
-        title: 'Seguridad ',
+        title: 'Lean Six Sigma Yellow Belt',
         image: image4,
-        text: 'Aplicación y datos protegidos en protocolos de Azure y personalización de accesos a la medida de las necesidades y por role de usuario.',
+        text: 'Implementa el Kaizen y las herramientas lean en tu día a día y obtiene la certificación reconocida por entidades acreditadoras internacionales.',
         url: 'https://youtube.com/appsleanIT'
     },
     {
         id: 5,
-        title: 'Administración ',
+        title: 'Lean Six Sigma White Belt ',
         image: image5,
-        text: 'Total autonomía en administrar los accesos y acceder al “core” (programa) de la aplicación.',
+        text: 'Conoce de la metodología lean six sigma y obtiene la certificación reconocida por entidades acreditadoras internacionales.',
         url: 'https://youtube.com/appsleanIT'
     },
     {
         id: 6,
-        title: 'Versatilidad',
+        title: 'Vitamina Lean',
         image: image6,
-        text: 'Permite crear una gran variedad de aplicaciones a medida de las necesidades del negocio.',
+        text: 'Varias formaciones de 4h máximo enfocadas en herramientas específicas, tales como: VSM, SMED, FMEA, Brainstorming, etc.',
         url: 'https://youtube.com/appsleanIT'
     },
 

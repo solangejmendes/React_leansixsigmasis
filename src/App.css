@@ -262,6 +262,46 @@ video {
 }
 
 
+/* ***********Accordion**************** */
+.accordion{
+    width: 100%;
+    max-width: none;
+    margin: 18px auto;
+    color: #fff
+}
+
+.accordionHeading {
+    background: #3f475d;
+    padding: 14px 0;
+
+}
+
+.accordionHeading .container {
+    /*display: flex; */
+    align-items: start;
+    justify-content: space-between
+}
+
+.accordionHeading p {
+    letter-spacing: 1.2px;
+    font-weight: 600;
+}
+
+.accordionHeading span {
+    cursor: pointer;
+}
+
+.accordionContent {
+    background: #38a7f3;
+    /* height: 0;
+    opacity: 0; */
+    display: flex;
+    overflow: hidden;
+    transition: all 600ms ease-in-out;
+    /*align-items: self-start;*/
+    text-align: left;
+}
+
 /* ***********Footer styles**************** */
 
 .footer a {

@@ -1,30 +1,30 @@
 import React from 'react'
 import WhiteCard from './WhiteCard'
 
-import image1 from '../../assets/images/PowerApps.jpg'
-import image2 from '../../assets/images/PowerAutomate3.PNG'
-import image3 from '../../assets/images/powerBI.png'
+import image1 from '../../assets/images/Learning2.jpg'
+import image2 from '../../assets/images/Transformacion.jpg'
+import image3 from '../../assets/images/project3.jpg'
 
 const cards = [
     {
         id: 1,
-        title: 'PowerApps',
+        title: 'Formación y certificación',
         image: image1,
-        text: "plataforma de programación para desarrollar aplicaciones de desktop o móviles integrados a otros softwares a través de APIs o a diferentes tipos de bases de datos (SharePoint, Dataverse, SQL, Excel, entre otras) y que permite digitalizar e integrar los procesos de negocio.",
-        url: "",
+        text: "En un mercado empresarial cada vez más competitivo, la excelencia en la gestión de procesos es esencial. Creemos que la base está en la formación y te enseñaremos a pescar. Ofrecemos certificación en Lean Six Sigma desde White Belt hasta el Master Black Belt acreditada y reconocida a nivel internacional. Esto significa que, una vez obtenida nuestra certificación, tus habilidades en Lean Six Sigma serán reconocidas y respetadas en todo el mundo. Nuestros instructores son altamente calificados y experimentados que te guiarán a través de los conceptos. Ya sea que estés buscando mejorar tu carrera profesional o fortalecer la eficiencia operativa de tu organización, nuestra formación y certificación en Lean Six Sigma son la clave para alcanzar tus objetivos. Únete a nosotros en el camino hacia la excelencia en la gestión de procesos y desbloquea un mundo de oportunidades.",
+        url: "/formacion",
     },
     {
         id: 2,
-        title: 'Power Automate',
+        title: 'Transformación digital',
         image: image2,
-        text: "Plataforma de programación para desarrollar flujos automáticos de trabajo o aprobación, notificaciones, alertas, etc. integrados con otras aplicaciones de Microsoft Office 365 como Outlook, Teams, SharePoint, OneDrive, entre otras, permitiendo un incremento sustancial de la productividad de los procesos de negocio.",
+        text: "La automatización se aplica a una variedad de tareas, desde la gestión de documentos hasta la cadena de suministro. Esto reduce costos y errores, al tiempo que agiliza las operaciones y proporciona datos en tiempo real que mejoran la toma de decisiones. En suma, esto que permite a las organizaciones adaptarse rápidamente a los cambios del mercado por lo que la transformación digital está revolucionando la forma en que las empresas operan en la era moderna.",
         url: "",
     },
     {
         id: 3,
-        title: 'Power BI',
+        title: 'Asesoría y coaching',
         image: image3,
-        text: 'Plataforma de business intelligence que integra toda la información contenida en una variedad muy amplia y diversificada de bases de datos de Azure y Microsoft, relacionarlas y transformar en un modelo analítico de los indicadores de proceso de su negocio.',
+        text: 'El éxito se forja a través de la colaboración estrecha y la mejora constante. Ofrecemos coaching a pie de operación con un enfoque que se sumerge en los detalles de las operativas empresariales y trabaja codo a codo con los equipos para impulsar el progreso. Esta colaboración cercana nos permitirá identificar oportunidades de mejora que marcarán la diferencia en la eficiencia y competitividad de tu empresa a la vez que brinda coaching a tu gente para alcanzar la excelencia.',
         url: "",
     }
 ]

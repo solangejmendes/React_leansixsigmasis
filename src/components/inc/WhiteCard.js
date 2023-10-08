@@ -12,7 +12,7 @@ export default function WhiteCard({title, imageSource, text, url}) {
                 <div className="card-body">
                     <h6>{title}</h6>
                     <div className="underline"></div>
-                    <p className='card-text text-secondary' style={{ height: '10rem' }}>
+                    <p className='card-text text-secondary' style={{ height: '30rem' }}>
                         {
                             text ? text : 'Texto pendiente'
                         }

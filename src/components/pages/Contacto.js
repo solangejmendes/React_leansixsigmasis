@@ -20,7 +20,7 @@ export default function Contacto() {
                                     <Form />
                                 </div>
                                 <div className="col-md-6 border-start">
-                                    <h5>Address Information</h5>
+                                    <h5>¿Dónde estamos?</h5>
                                     <div className="underline"></div>
                                     <div>
                                         <iframe 
@@ -39,12 +39,12 @@ export default function Contacto() {
                                     <div>
                                         <p className="text-center">
                                             Telf: 
-                                            <a href="https://api.whatsapp.com/send?phone=34648808368&text=Gracias%20por%20contactar%20a%20Apps%20Lean%20IT.%20%C2%BFEn%20que%20te%20puedo%20ayudar?" target="_blank" rel="noopener noreferrer"> +34 648 808 368</a>
-                                            <a href="https://api.whatsapp.com/send?phone=34648808368&text=Gracias%20por%20contactar%20a%20Apps%20Lean%20IT.%20%C2%BFEn%20que%20te%20puedo%20ayudar?" className="whatsapp social" target="_blank" rel="noopener noreferrer">
+                                            <a href="https://api.whatsapp.com/send?phone=34648808368&text=Gracias%20por%20contactar%20a%20Lean%20Six%20Sigma%20Sis.%20%C2%BFEn%20que%20te%20puedo%20ayudar?" target="_blank" rel="noopener noreferrer"> +34 648 808 368</a>
+                                            <a href="https://api.whatsapp.com/send?phone=34648808368&text=Gracias%20por%20contactar%20a%20Lean%20Six%20Sigma%20Sis.%20%C2%BFEn%20que%20te%20puedo%20ayudar?" className="whatsapp social" target="_blank" rel="noopener noreferrer">
                                                 <FontAwesomeIcon icon={faWhatsapp} size="1x" />
                                             </a>
                                             | email: 
-                                            <a href="#bottom"> info@AppsLeanIT.com</a>
+                                            <a href="#bottom"> info@LeanSixSigmaSis.com</a>
                                         </p>
                                     </div>
                                 </div>

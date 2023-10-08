@@ -1,6 +1,5 @@
 import React from 'react';
 import metodologia from '../../assets/images/Metodologia.PNG';
-import Accordions from '../inc/AccordionsLSSBB';
 
 export default function Metodologia() {
     return (
@@ -40,7 +39,6 @@ export default function Metodologia() {
                         </div>
                         <img src={metodologia} className="w-100 border-bottom" alt="agua" />
                         </div>
-                        <Accordions />
                     </div>
                 </div>
             </section>

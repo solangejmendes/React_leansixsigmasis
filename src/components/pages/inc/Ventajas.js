@@ -1,5 +1,4 @@
 import React from 'react';
-import Cards from '../../inc/Cards';
 
 export default function Ventajas() {
     return (

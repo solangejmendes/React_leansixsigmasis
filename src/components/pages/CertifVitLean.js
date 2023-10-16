@@ -14,7 +14,7 @@ export default function CertifVitLean() {
                                     <img src={Lssbb} className="w-50 border-bottom" alt="lssbb" />
                                 </div>
                                 <h3 className="main-heading">
-                                    Certificacion Lean Six Sigma Black Belt 
+                                    Vitaminas Lean
                                 </h3>
                                 <div className="underline mx-auto"></div>
                             </div>
@@ -32,26 +32,33 @@ export default function CertifVitLean() {
                                 <div className="underline mx-left"></div>
                             </div>
                             <div className="col-md-12 left">
-                            <p>
-                                El objetivo es dar a los participantes las herramientas necesarias para desarrollar el rol de un Lean Six Sigma Black Belt y poder:
-                            </p>
-                                <ul>
-                                    <li>Comprender Lean Six Sigma y la metodología DMAIC.</li>
-                                    <li>Aprender y aplicar habilidades en gestión de proyectos, gestión de procesos, lean, gestión del cambio y análisis estadístico básico.</li>
-                                    <li>Comprender la función del Black Belt en una implementación exitosa de Lean Six Sigma</li>
-                                    <li>Establecer, enfocar y liderar adecuadamente proyectos Lean Six Sigma.</li>
-                                    <li>Saber avanzar con el proyecto de fase a fase de la metodología.</li>
-                                    <li>Al finalizar, cerrar proyecto y contabilizar beneficios alcanzados.</li>
-                                    <li>Presentar proyectos a compañeros, directivos y a dirección.</li>
-                                    <li>Aplicar los métodos aprendidos en el proceso DMAIC al negocio de las empresas.</li>                           
-                                    <li>Aplicar análisis estadístico para determinar la relación entre las entradas clave y las salidas del proceso.</li>
-                                    <li>Implementar controles para mantener las ganancias.</li>
-                                    <li>Gestionar eficazmente la dinámica del equipo de proyecto.</li>
-                                    <li>Navegar por software de análisis estadístico (Minitab).</li>
-                                    <li>Conseguir la certificación como Lean Six Sigma Black Belt basada en las normas ISO 13053 y 18404, y la CSSC, que permita participar en equipos de trabajo para la mejora de procesos y la excelencia operacional.</li>
-                                </ul>
+                                <p>
+                                    El objetivo es dar a los participantes la habilidad de aplicar herramientas específicas de Lean Six Sigma en la implementación del programa de mejora continua.
+                                </p>
                             </div>
+                        </div>
+                    </div>
+                </section>
 
+                <section className="section bg-c-light border-top">
+                    <div className="container">
+                        <div className="row">
+                            <div className="col-md-12 text-left">
+                                <h3 className="main-heading">
+                                    Herramientas cubiertas
+                                </h3>
+                                <div className="underline mx-left"></div>
+                            </div>
+                            <div className="col-md-12 left">
+                                <p>
+                                    En este tipo de formación puedes coger una herramienta específicas y especializarte en ella. Las herramientas que tenemos son:  
+                               </p>
+                               <ul>
+                                    <li>SMED</li>
+                                    <li>TPM</li>
+                                    <li>Kaizen</li>
+                               </ul>
+                            </div>
                         </div>
                     </div>
                 </section>
@@ -67,7 +74,7 @@ export default function CertifVitLean() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                   Directores, mandos intermedios, supervisores, personal técnico y cualquier profesional que tenga un conocimiento previo nivel Lean Six Sigma Green Belt. 
+                                Supervisores, personal técnico y cualquier profesional que tenga quera profundizar conocimientos en la herramienta en causa. 
                                 </p>
                             </div>
                         </div>
@@ -106,12 +113,9 @@ export default function CertifVitLean() {
                                     Presamos la calidad de nuestra formación, por lo que ofrecemos: 
                                 </p>
                                 <ul>
-                                    <li>Consolidar los conceptos a través de la aplicación práctica a situaciones reales.</li>
                                     <li>Materiales para las actividades.</li>
-                                    <li>Enfoque práctico que permita entender los conceptos teóricos.</li>
                                     <li>La formación es también un espacio para hacer preguntas a los expertos sobre herramientas y técnicas, ejercicios, trabajo de proyectos o soporte técnico general.</li>
-                                    <li>2h de Asesoramiento post-formación</li>
-                                    <li>Examen oficial</li>                           
+                                    <li>Examen</li>                           
                                </ul>
                             </div>
                         </div>
@@ -150,12 +154,8 @@ export default function CertifVitLean() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                    Dado que nuestra formación sigue un enfoque progresivo, para inscribirte directamente en el nivel Black Belt, debes: 
+                                    No existen requisitos previos para estas formaciones de especialización. 
                                 </p>
-                                <ul>
-                                    <li>Estar certificado como Lean Six Sigma Green Belt por una entidad acreditada internacionalmente (ILSSL, CSSC, IASSC, ASQ).</li>
-                                    <li>Realizar el examen de prueba de nivel de Green Belt. Contáctanos para obtener más información.</li>                        
-                               </ul>
                             </div>
                         </div>
                     </div>
@@ -189,9 +189,6 @@ export default function CertifVitLean() {
                                 <div className="underline mx-left"></div>
                             </div>
                             <div className="col-md-12 left">
-                                <p>
-                                    Lean Six Sigma Sis cuenta con la acreditación del CSSC (Council for Six Sigma Certification), y nuestros programas están diseñados en consonancia con el temario (body of knowledge) de las certificaciones de la IASSC, ASQ y cumplen con los estándares de la norma ISO 13053.
-                                </p>
                                 <p>
                                     Para obtener nuestro certificado, es fundamental aprobar el curso con una calificación igual o superior al 80%.
                                 </p>
@@ -237,7 +234,7 @@ export default function CertifVitLean() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                    Pronto se pondrá. 
+                                    Depende de la herramienta. Consúltanos para más detalles.  
                                 </p>
                             </div>
                         </div>

@@ -97,6 +97,24 @@ export default function CertifLssbb() {
                         <div className="row">
                             <div className="col-md-12 text-left">
                                 <h3 className="main-heading">
+                                    Duración
+                                </h3>
+                                <div className="underline mx-left"></div>
+                            </div>
+                            <div className="col-md-12 left">
+                                <p>
+                                    40h + Examen (6 meses máximo)  
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section className="section bg-c-light border-top">
+                    <div className="container">
+                        <div className="row">
+                            <div className="col-md-12 text-left">
+                                <h3 className="main-heading">
                                     Metodología
                                 </h3>
                                 <div className="underline mx-left"></div>
@@ -237,7 +255,195 @@ export default function CertifLssbb() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                    Pronto se pondrá. 
+                                    <ol>
+                                        <li>
+                                            Introducción Lean Six Sigma
+                                            <ul>
+                                                <li>
+                                                    Introducción
+                                                </li>
+                                                <li>
+                                                    Diferencia entre Lean y Six Sigma
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Estratégia y despliegue
+                                            <ul>
+                                                <li>
+                                                    Estratégia Hoshin Kanri
+                                                </li>
+                                                <li>
+                                                    Alineamiento estratégico
+                                                </li>
+                                                <li>
+                                                    Selección de proyectos Lean Six Sigma 
+                                                </li>
+                                                <li>
+                                                    Despliegue Lean Six Sigma
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            La mejora continua
+                                            <ul>
+                                                <li>
+                                                    Lean y sus distintos tipos
+                                                </li>
+                                                <li>
+                                                    Lean Thinking
+                                                </li>
+                                                <li>
+                                                    Scrum y Agile 
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Gestión de proyectos Lean Six Sigma
+                                            <ul>
+                                                <li>
+                                                    Gestión efectiva de equipos
+                                                </li>
+                                                <li>
+                                                    Liderazgo transformacional
+                                                </li>
+                                                <li>
+                                                    Matrix RACI 
+                                                </li>
+                                                <li>
+                                                    Metodología DMAIC 
+                                                </li>
+                                                <li>
+                                                    Metodología DFSS 
+                                                </li>
+                                                <li>
+                                                    Gestión de tareas en Kanban
+                                                </li>
+                                                <li>
+                                                    Revisión de proyecto 
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Fase Definir
+                                            <ul>
+                                                <li>
+                                                    VSM (Mapa de Cadena de Valor)
+                                                </li>
+                                                <li>
+                                                    VOC (Voz del Cliente)
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Fase Medir
+                                            <ul>
+                                                <li>
+                                                    Análisis del Sistema de Medida
+                                                </li>
+                                                <li>
+                                                    Capacidad con Datos no normales
+                                                </li>
+                                            </ul>
+                                        </li                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                >
+                                        <li>
+                                            Fase Analizar
+                                            <ul>
+                                                <li>
+                                                    SMED
+                                                </li>
+                                                <li>
+                                                    OEE
+                                                </li>
+                                                <li>
+                                                    TPM
+                                                </li>
+                                                <li>
+                                                    Sistema Pull y Push
+                                                </li>
+                                                <li>
+                                                    Análisis de regresión multi-linear
+                                                </li>
+                                                <li>
+                                                    Estadística inferencial
+                                                </li>
+                                                <li>
+                                                    Análisis de Varianza ANOVA
+                                                </li>
+                                                <li>
+                                                    Pruebas de hipótesis con datos normales
+                                                </li>
+                                                <li>
+                                                    Pruebas de hipótesis con datos no normales
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Fase Mejorar
+                                            <ul>
+                                                <li>
+                                                    Diseño de experimentos (DOE)
+                                                </li>
+                                                <li>
+                                                    Diseño de experimentos (DOE) a factorial completo
+                                                </li>
+                                                <li>
+                                                    Diseño de experimentos (DOE) a factorial fraccionario
+                                                </li>
+                                                <li>
+                                                    Técnica de Lluvia de ideas
+                                                </li>
+                                                <li>
+                                                    Técnica de los 6 sombreros
+                                                </li>
+                                                <li>
+                                                    TRIZ
+                                                </li>
+                                                <li>
+                                                    Documentar / diseñar soluciones
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Impacto financiero de las soluciones
+                                            <ul>
+                                                <li>
+                                                    ROI
+                                                </li>
+                                                <li>
+                                                    Cash Flow                                                
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Fase Controlar
+                                            <ul>
+                                                <li>
+                                                    Cartas de Control - datos discretos
+                                                </li>
+                                                <li>
+                                                    KPIs y Dashboards
+                                                </li>
+                                                <li>
+                                                    Jidoka
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Gestión del cambio
+                                            <ul>
+                                                <li>
+                                                    Monitorización de proyectos
+                                                </li>
+                                                <li>
+                                                    ROI del programa Lean Six sigma
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Proceso de certificación Lean Six Sigma Black Belt
+                                        </li>
+                                    </ol> 
                                 </p>
                             </div>
                         </div>

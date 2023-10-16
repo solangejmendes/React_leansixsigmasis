@@ -15,23 +15,21 @@ export default function Quiensomos() {
                         </div>
                         <div className="col-md-12 left">
                             <p>
-                                Nos dedicamos, tanto a la integración de soluciones existentes (ver apartado de Productos), 
-                                como al desarrollo de soluciones de software personalizado para empresas industriales o de servicios. 
+                                ¿Buscas optimizar tus procesos y maximizar la eficiencia en tu empresa? ¡Estás en el lugar adecuado! 
+Somos especializados en mejora de eficiencia de procesos y podemos ayudar a tu empresa a impulsar la productividad, reducir costos y lograr resultados excepcionales. 
                             </p>
                             <p>
-                                Nuestras soluciones tecnológicas visan:
+                                Nuestro enfoque se adapta tanto a entornos industriales como a servicios, brindando soluciones a medida que se alinean con tus objetivos y desafíos específicos. Con un historial probado de éxito, estamos comprometidos a trabajar junto a ti para identificar áreas de mejora, implementar estrategias efectivas y medir el impacto positivo en tu organización.
                             </p>
-                            <ul>
-                                <li>incrementar la productividad de los procesos de negocio, </li>
-                                <li>digitalizar procesos </li>
-                                <li>automatizar flujos de trabajo.</li>
-
-                            </ul>
                             <br/>
                             <p>
-                                Somos un equipo de Ingenieros con más de 15 años de experiencia laboral en diferentes áreas de tecnología y empresariales, como: 
-                                desarrollo de software, análisis de negocios con enfoques tecnológicos y gestión de proyectos. Dominamos la plataforma Power de Microsoft. 
+                                Ya sea que desees simplificar tus operaciones, optimizar la cadena de suministro, mejorar la calidad del producto o servicio, o cualquier otro objetivo relacionado con la eficiencia, estamos aquí para ofrecerte orientación experta y resultados tangibles.
                             </p>
+                            <br/>
+                            <p>
+                                ¿Listo/a para llevar tu empresa al siguiente nivel? Contáctanos hoy mismo y comencemos a trabajar juntos en la mejora de tus procesos. ¡Juntos alcanzaremos el éxito que mereces!   
+                            </p>
+                            <br/>
                             <Slider />
                         </div>
                     </div>

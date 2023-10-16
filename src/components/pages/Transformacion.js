@@ -1,7 +1,7 @@
 import React from 'react';
 import Accordions from '../inc/AccordionsLSSBB';
 
-export default function Formacion() {
+export default function Transformacion() {
     return (
         <div>
         <div className='newpage'>

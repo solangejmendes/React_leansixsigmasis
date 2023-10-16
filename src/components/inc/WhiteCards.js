@@ -10,8 +10,8 @@ const cards = [
         id: 1,
         title: 'Formación y certificación',
         image: image1,
-        text: "En un mercado empresarial cada vez más competitivo, la excelencia en la gestión de procesos es esencial. Creemos que la base está en la formación y te enseñaremos a pescar. Ofrecemos certificación en Lean Six Sigma desde White Belt hasta el Master Black Belt acreditada y reconocida a nivel internacional. Esto significa que, una vez obtenida nuestra certificación, tus habilidades en Lean Six Sigma serán reconocidas y respetadas en todo el mundo. Nuestros instructores son altamente calificados y experimentados que te guiarán a través de los conceptos. Ya sea que estés buscando mejorar tu carrera profesional o fortalecer la eficiencia operativa de tu organización, nuestra formación y certificación en Lean Six Sigma son la clave para alcanzar tus objetivos. Únete a nosotros en el camino hacia la excelencia en la gestión de procesos y desbloquea un mundo de oportunidades.",
-        url: "/formacion",
+        text: "En un mercado empresarial cada vez más competitivo, la excelencia en la gestión de procesos es esencial. Creemos que la base está en la formación y te enseñaremos a pescar. Ofrecemos certificación en Lean Six Sigma desde White Belt hasta el Master Black Belt acreditada y reconocida a nivel internacional. Esto significa que, una vez obtenida nuestra certificación, tus habilidades en Lean Six Sigma serán reconocidas y respetadas en todo el mundo.",
+        url: "/certificacion",
     },
     {
         id: 2,

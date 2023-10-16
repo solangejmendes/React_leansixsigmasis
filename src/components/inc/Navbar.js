@@ -42,15 +42,7 @@ export default function Navbar() {
                             >
                                 Servicios
                             </NavLink>
-                        </li>  
-                        <li className="nav-item">
-                            <NavLink 
-                                to="/formacion" 
-                                className="nav-link navbar-text"
-                            >
-                                Formación
-                            </NavLink>
-                        </li>      
+                        </li>     
                         <li className="nav-item">
                             <NavLink 
                                 to="/certificacion" 
@@ -59,6 +51,14 @@ export default function Navbar() {
                                 Certificación
                             </NavLink>
                         </li>  
+                        <li className="nav-item">
+                            <NavLink 
+                                to="/servicios" 
+                                className="nav-link navbar-text"
+                            >
+                                Transformación
+                            </NavLink>
+                        </li>   
                         <li className="nav-item">
                             <NavLink 
                                 to="/contacto" 

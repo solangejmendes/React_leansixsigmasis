@@ -14,7 +14,7 @@ export default function CertifLssyb() {
                                     <img src={Lssyb} className="w-50 border-bottom" alt="lssyb" />
                                 </div>
                                 <h3 className="main-heading">
-                                    Certificacion Lean Six Sigma Black Belt 
+                                    Certificacion Lean Six Sigma Yellow Belt 
                                 </h3>
                                 <div className="underline mx-auto"></div>
                             </div>
@@ -38,17 +38,13 @@ export default function CertifLssyb() {
                                 <ul>
                                     <li>Comprender Lean Six Sigma y la metodología DMAIC.</li>
                                     <li>Aprender y aplicar habilidades en gestión de proyectos, gestión de procesos, lean, gestión del cambio y análisis estadístico básico.</li>
-                                    <li>Comprender la función del Black Belt en una implementación exitosa de Lean Six Sigma</li>
-                                    <li>Establecer, enfocar y liderar adecuadamente proyectos Lean Six Sigma.</li>
+                                    <li>Comprender las funciones six sigma</li>
                                     <li>Saber avanzar con el proyecto de fase a fase de la metodología.</li>
                                     <li>Al finalizar, cerrar proyecto y contabilizar beneficios alcanzados.</li>
-                                    <li>Presentar proyectos a compañeros, directivos y a dirección.</li>
-                                    <li>Aplicar los métodos aprendidos en el proceso DMAIC al negocio de las empresas.</li>                           
-                                    <li>Aplicar análisis estadístico para determinar la relación entre las entradas clave y las salidas del proceso.</li>
+                                    <li>Aplicar análisis estadístico básico.</li>
                                     <li>Implementar controles para mantener las ganancias.</li>
                                     <li>Gestionar eficazmente la dinámica del equipo de proyecto.</li>
-                                    <li>Navegar por software de análisis estadístico (Minitab).</li>
-                                    <li>Conseguir la certificación como Lean Six Sigma Black Belt basada en las normas ISO 13053 y 18404, y la CSSC, que permita participar en equipos de trabajo para la mejora de procesos y la excelencia operacional.</li>
+                                    <li>Conseguir la certificación como Lean Six Sigma Yellow Belt basada en las normas ISO 13053 y 18404, y la CSSC, que permita participar en equipos de trabajo para la mejora de procesos y la excelencia operacional.</li>
                                 </ul>
                             </div>
 
@@ -67,7 +63,7 @@ export default function CertifLssyb() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                   Directores, mandos intermedios, supervisores, personal técnico y cualquier profesional que tenga un conocimiento previo nivel Lean Six Sigma Green Belt. 
+                                Directores, mandos intermedios, supervisores, personal técnico y cualquier profesional que tenga un conocimiento previo nivel Lean Six Sigma White Belt. 
                                 </p>
                             </div>
                         </div>
@@ -86,6 +82,24 @@ export default function CertifLssyb() {
                             <div className="col-md-12 left">
                                 <p>
                                     Modalidad online en directo vía Zoom. Para presenciales o in company contactanos.  
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section className="section bg-c-light border-top">
+                    <div className="container">
+                        <div className="row">
+                            <div className="col-md-12 text-left">
+                                <h3 className="main-heading">
+                                    Duración
+                                </h3>
+                                <div className="underline mx-left"></div>
+                            </div>
+                            <div className="col-md-12 left">
+                                <p>
+                                    32h + Examen (3 meses máximo)  
                                 </p>
                             </div>
                         </div>
@@ -150,11 +164,11 @@ export default function CertifLssyb() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                    Dado que nuestra formación sigue un enfoque progresivo, para inscribirte directamente en el nivel Black Belt, debes: 
+                                    Dado que nuestra formación sigue un enfoque progresivo, para inscribirte directamente en el nivel Yellow  Belt, debes: 
                                 </p>
                                 <ul>
-                                    <li>Estar certificado como Lean Six Sigma Green Belt por una entidad acreditada internacionalmente (ILSSL, CSSC, IASSC, ASQ).</li>
-                                    <li>Realizar el examen de prueba de nivel de Green Belt. Contáctanos para obtener más información.</li>                        
+                                    <li>Estar certificado como Lean Six Sigma White Belt por una entidad acreditada internacionalmente (ILSSL, CSSC, IASSC, ASQ).</li>
+                                    <li>Realizar el examen de prueba de nivel de White Belt. Contáctanos para obtener más información.</li>                        
                                </ul>
                             </div>
                         </div>
@@ -237,7 +251,130 @@ export default function CertifLssyb() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                    Pronto se pondrá. 
+                                    <ol>
+                                        <li>
+                                            Introducción Lean Six Sigma
+                                            <ul>
+                                                <li>
+                                                    Introducción
+                                                </li>
+                                                <li>
+                                                    Diferencia entre Lean y Six Sigma
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Conceptos de lean
+                                            <ul>
+                                                <li>
+                                                    Los 7 desperdicios
+                                                </li>
+                                                <li>
+                                                    5s
+                                                </li>
+                                                <li>
+                                                    Just In Time (JIT) 
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Proceso
+                                            <ul>
+                                                <li>
+                                                    Concepto de proceso
+                                                </li>
+                                                <li>
+                                                    Dueños de proceso
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Selección de proyectos
+                                            <ul>
+                                                <li>
+                                                    La cantidad de proyectos
+                                                </li>
+                                                <li>
+                                                    Equipo de proyecto
+                                                </li>
+                                                <li>
+                                                    Plan de proyecto 
+                                                </li>
+                                                <li>
+                                                    Presupuesto de proyecto 
+                                                </li>
+                                                <li>
+                                                    A3
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Método
+                                            <ul>
+                                                <li>
+                                                    DMAIC
+                                                </li>
+                                                <li>
+                                                    DMAIC vs DMADV
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Fase Definir
+                                            <ul>
+                                                <li>
+                                                    SIPOC
+                                                </li>
+                                                <li>
+                                                    VOC (Voz del Cliente)
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Fase Medir
+                                            <ul>
+                                                <li>
+                                                    Caracteristicas criticas de calidad
+                                                </li>
+                                                <li>
+                                                    Medidas basicas
+                                                </li>
+                                                <li>
+                                                    Desviación estandar
+                                                </li>
+                                            </ul>
+                                        </li                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                >
+                                        <li>
+                                            Fase Analizar
+                                            <ul>
+                                                <li>
+                                                    Relación causa efecto y=f(x)
+                                                </li>
+                                                <li>
+                                                    Los 5 porqués
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Fase Mejorar
+                                            <ul>
+                                                <li>
+                                                    Establecer soluciones
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Fase Controlar
+                                            <ul>
+                                                <li>
+                                                    Documentar proyecto
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Proceso de certificación Lean Six Sigma Yellow Belt
+                                        </li>
+                                    </ol> 
                                 </p>
                             </div>
                         </div>

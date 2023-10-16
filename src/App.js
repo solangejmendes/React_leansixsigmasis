@@ -3,15 +3,15 @@ import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import Navbar from './components/inc/Navbar';
 import Footer from './components/inc/Footer';
 import Inicio from './components/pages/Inicio';
-import Servicios from './components/pages/Certificacion';
-import Formacion from './components/pages/Formacion2';
+import Servicios from './components/pages/Servicios';
+import Transformacion from './components/pages/Transformacion';
 import Contacto from './components/pages/Contacto';
 import Gracias from './components/pages/inc/Gracias';
 import Quiensomos from './components/pages/Quiensomos';
 import Certificacion from './components/pages/Certificacion';
 import CertifLssbb from './components/pages/CertifLssbb';
-import CertifLssgb from './components/pages/CertifLssyb';
-import CertifLssyb from './components/pages/CertifLssbb';
+import CertifLssgb from './components/pages/CertifLssgb';
+import CertifLssyb from './components/pages/CertifLssyb';
 import CertifLsswb from './components/pages/CertifLsswb';
 import CertifLssmbb from './components/pages/CertifLssmbb';
 import CertifVitLean from './components/pages/CertifVitLean';
@@ -25,7 +25,7 @@ function App() {
             <Navbar />
             <Routes>
                 <Route path="servicios" element={<Servicios />} />
-                <Route path="formacion" element={<Formacion />} />
+                <Route path="transformacion" element={<Transformacion />} />
                 <Route path="quiensomos" element={<Quiensomos />} />
                 <Route path="certificacion" element={<Certificacion />} />
                 <Route path="contacto" element={<Contacto />} />

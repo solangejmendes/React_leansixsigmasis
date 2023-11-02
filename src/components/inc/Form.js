@@ -45,8 +45,8 @@ export default function Form() {
         console.log(e);
         /* --- METHOD TO SEND THE EMAIL --- */
         send(
-            'service_lhlonca',
-            'template_e7tlcmd',
+            'service_hvb2eaq',
+            'template_dwqp8ml',
             toSend,
             'YVUu0maHv4Z6qOyhQ'
         )

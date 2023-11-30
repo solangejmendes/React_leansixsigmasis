@@ -24,18 +24,18 @@ function App() {
         <div>
             <Navbar />
             <Routes>
-                <Route path="/servicios" element={<Servicios />} />
-                <Route path="/transformacion" element={<Transformacion />} />
-                <Route path="/quiensomos" element={<Quiensomos />} />
-                <Route path="/certificacion" element={<Certificacion />} />
-                <Route path="/contacto" element={<Contacto />} />
-                <Route path="/gracias" element={<Gracias />} />
-                <Route path="/certiflssbb" element={<CertifLssbb />} />
-                <Route path="/certiflssgb" element={<CertifLssgb />} />
-                <Route path="/certiflssyb" element={<CertifLssyb />} />
-                <Route path="/certiflsswb" element={<CertifLsswb />} />
-                <Route path="/certiflssmbb" element={<CertifLssmbb />} />
-                <Route path="/certifvitlean" element={<CertifVitLean />} />
+                <Route path="servicios" element={<Servicios />} />
+                <Route path="transformacion" element={<Transformacion />} />
+                <Route path="quiensomos" element={<Quiensomos />} />
+                <Route path="certificacion" element={<Certificacion />} />
+                <Route path="contacto" element={<Contacto />} />
+                <Route path="gracias" element={<Gracias />} />
+                <Route path="certiflssbb" element={<CertifLssbb />} />
+                <Route path="certiflssgb" element={<CertifLssgb />} />
+                <Route path="certiflssyb" element={<CertifLssyb />} />
+                <Route path="certiflsswb" element={<CertifLsswb />} />
+                <Route path="certiflssmbb" element={<CertifLssmbb />} />
+                <Route path="certifvitlean" element={<CertifVitLean />} />
                 <Route path="/" element={<Inicio />} />
             </Routes>
             <Footer />

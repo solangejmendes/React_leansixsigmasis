@@ -14,14 +14,14 @@ const cards = [
         title: 'Lean Six Sigma Master Black Belt',
         image: image1,
         text: "Lidera el despliegue lean six sigma, la gestión de los proyectos DMAIC y obtiene la certificación reconocida por entidades acreditadoras internacionales.",
-        url: 'https://youtube.com/appsleanIT'
+        url: "/certifLssbb"
     },
     {
         id: 2,
         title: 'Lean Six Sigma Black Belt',
         image: image2,
         text: "Lidera proyectos de alto nivel utilizando la metodología DMAIC y obtiene la certificación reconocida por entidades acreditadoras internacionales.",
-        url: 'https://youtube.com/appsleanIT'
+        url: "/certifLssbb"
     },
     {
         id: 3,

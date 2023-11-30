@@ -18,7 +18,7 @@ export default function Card({title, imageSource, text, url}) {
                         text ? text : 'Texto pendiente'
                     }
                 </p>
-                <Link to={url} className='btn btn-outline-secondary rounded-0' target="_blank" rel="noreferrer">
+                <Link to={url} className='btn btn-outline-secondary rounded-0' rel="noreferrer">
                     más detalle
                 </Link>
             </div>

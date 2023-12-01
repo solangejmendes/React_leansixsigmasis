@@ -26,31 +26,31 @@ const cards = [
     },
     {
         id: 3,
-        title: 'Lean Six Sigma GGB',
+        title: 'Lean Six Sigma GB',
         image: image3,
         text: 'ILidera proyectos lean y six sigma y obtiene la certificación reconocida por entidades acreditadoras internacionales.',
-        url: "",
+        url: "/certiflssgb",
     },
     {
         id: 4,
         title: 'Lean Six Sigma YB',
         image: image4,
         text: "Implementa el Kaizen y las herramientas lean en tu día a día y obtiene la certificación reconocida por entidades acreditadoras internacionales.",
-        url: "",
+        url: "/certiflssyb",
     },
     {
         id: 5,
         title: 'Lean Six Sigma WB',
         image: image5,
         text: "Conoce de la metodología lean six sigma y obtiene la certificación reconocida por entidades acreditadoras internacionales.",
-        url: "",
+        url: "/certiflsswb",
     },
     {
         id: 6,
         title: 'Vitaminas Lean',
         image: image6,
         text: 'Varias formaciones de 4h máximo enfocadas en herramientas específicas, tales como: VSM, SMED, FMEA, Brainstorming, etc.',
-        url: "",
+        url: "/certifvitlean",
     }
 ]
 

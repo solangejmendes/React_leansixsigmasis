@@ -13,7 +13,7 @@ export default function SmallCard({title, imageSource, url}) {
             </div>
             <div className='card-body text-light'>
                 <h6 className="card-title">{title}</h6>
-                <Link to={url} className='btn btn-outline-secondary rounded-0' target="_blank" rel="noreferrer">
+                <Link to={url} className='btn btn-outline-secondary rounded-0' rel="noreferrer">
                     más detalle
                 </Link>
             </div>

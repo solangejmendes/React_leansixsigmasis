@@ -3,7 +3,7 @@ import WhiteCard from './WhiteCard'
 
 import image1 from '../../assets/images/Learning2.jpg'
 import image2 from '../../assets/images/Transformacion.jpg'
-import image3 from '../../assets/images/project3.jpg'
+import image3 from '../../assets/images/project.jpg'
 
 const cards = [
     {

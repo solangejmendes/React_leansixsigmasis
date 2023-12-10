@@ -11,7 +11,7 @@ export default function CertifLssgb() {
                         <div className="row">
                             <div className="col-md-6 text-center">
                                 <div className="col-md-6 text-left">
-                                    <img src={Lssgb} className="w-50 border-bottom" alt="lssgb" />
+                                    <img src={Lssgb} className="w-50 border-bottom" alt="Formación Lean Six Sigma Green Belt" />
                                 </div>
                                 <h3 className="main-heading">
                                     Certificacion Lean Six Sigma Green Belt 

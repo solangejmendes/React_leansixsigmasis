@@ -15,12 +15,24 @@ import CertifLssyb from './components/pages/CertifLssyb';
 import CertifLsswb from './components/pages/CertifLsswb';
 import CertifLssmbb from './components/pages/CertifLssmbb';
 import CertifVitLean from './components/pages/CertifVitLean';
+import { Helmet } from 'react-helmet';
 
 
 
 function App() {
   return (
     <Router>
+      <Helmet>
+        <title>Lean Six Sigma formación y consultoría</title>
+        <meta 
+            name="description"
+            content="información sobre cursos de formación y certificación online, presencial y hibrida para black belts, green belts, yellow belts y white belts así como consultoría y transformación digital / industria 4.0"
+        />
+        <meta 
+            name="keywords"
+            content="Lean, SixSigma, formación, Certificación, Cursos, Mejora continua, procesos, eficiencia, calidad, transformación digital, consultoría, industria 4.0, Lean manufacturing, Lean services"
+        />
+      </Helmet>
         <div>
             <Navbar />
             <Routes>

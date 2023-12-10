@@ -11,7 +11,7 @@ export default function CertifLssbb() {
                         <div className="row">
                             <div className="col-md-6 text-center">
                                 <div className="col-md-6 text-left">
-                                    <img src={Lssbb} className="w-50 border-bottom" alt="lssbb" />
+                                    <img src={Lssbb} className="w-50 border-bottom" alt="Formación Lean Six Sigma Black Belt" />
                                 </div>
                                 <h3 className="main-heading">
                                     Certificacion Lean Six Sigma Black Belt 

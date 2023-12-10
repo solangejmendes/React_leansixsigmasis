@@ -11,7 +11,7 @@ export default function CertifLsswb() {
                         <div className="row">
                             <div className="col-md-6 text-center">
                                 <div className="col-md-6 text-left">
-                                    <img src={Lsswb} className="w-50 border-bottom" alt="lsswb" />
+                                    <img src={Lsswb} className="w-50 border-bottom" alt="Formación Lean Six Sigma White Belt" />
                                 </div>
                                 <h3 className="main-heading">
                                     Certificacion Lean Six Sigma White Belt 

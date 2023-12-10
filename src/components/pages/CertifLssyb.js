@@ -11,7 +11,7 @@ export default function CertifLssyb() {
                         <div className="row">
                             <div className="col-md-6 text-center">
                                 <div className="col-md-6 text-left">
-                                    <img src={Lssyb} className="w-50 border-bottom" alt="lssyb" />
+                                    <img src={Lssyb} className="w-50 border-bottom" alt="Formación Lean Six Sigma Yellow Belt" />
                                 </div>
                                 <h3 className="main-heading">
                                     Certificacion Lean Six Sigma Yellow Belt 

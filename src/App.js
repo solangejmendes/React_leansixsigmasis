@@ -19,8 +19,9 @@ import { Helmet } from 'react-helmet';
 import ReactGA from 'react-ga'
 
 
-const TRACKING_ID = "UA-63707449-5"; //OUR TRACKING ID
+const TRACKING_ID = "G-75DWPRS1BG"; //OUR TRACKING ID
 ReactGA.initialize(TRACKING_ID );
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 function App() {
   return (

@@ -1,6 +1,9 @@
 import React from 'react';
 import Lssbb from '../../assets/images/LssBB.jpg'
 import SmallTrainingCards from '../inc/SmallTrainingCards';
+import ReactGA from 'react-ga'
+
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 export default function CertifLssbb() {
     return (

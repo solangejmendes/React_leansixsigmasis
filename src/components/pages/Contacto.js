@@ -1,5 +1,5 @@
 import React from 'react';
-import { useEffect } from 'react';
+//import { useEffect } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 import Form from '../inc/Form';
@@ -11,10 +11,11 @@ import ReactGA from 'react-ga'
 export default function Contacto() {
 
     //no interaction event
-    useEffect(() => {
-        ReactGA.pageview(window.location.pathname)
-    }, []);
+//    useEffect(() => {
+//        ReactGA.pageview(window.location.pathname)
+//    }, []);
 
+    ReactGA.pageview(window.location.pathname + window.location.search);
 
     return (
         <div className='newpage'>

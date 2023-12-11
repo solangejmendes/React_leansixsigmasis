@@ -16,8 +16,11 @@ import CertifLsswb from './components/pages/CertifLsswb';
 import CertifLssmbb from './components/pages/CertifLssmbb';
 import CertifVitLean from './components/pages/CertifVitLean';
 import { Helmet } from 'react-helmet';
+import ReactGA from 'react-ga'
 
 
+const TRACKING_ID = "UA-63707449-5"; //OUR TRACKING ID
+ReactGA.initialize(TRACKING_ID );
 
 function App() {
   return (

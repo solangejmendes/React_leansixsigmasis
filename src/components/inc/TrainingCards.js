@@ -55,6 +55,8 @@ const cards = [
 ]
 
 export default function TrainingCards() {
+
+        
   return (
     <div className="container cards d-flex justify-content-center align-items-center h-100">
         <div className='row'>

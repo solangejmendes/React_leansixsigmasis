@@ -1,0 +1,1 @@
+export const GA_TRACKING_ID = 'G-75DWPRS1BG'; //OUR TRACKING ID

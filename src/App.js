@@ -16,12 +16,9 @@ import CertifLsswb from './components/pages/CertifLsswb';
 import CertifLssmbb from './components/pages/CertifLssmbb';
 import CertifVitLean from './components/pages/CertifVitLean';
 import { Helmet } from 'react-helmet';
-import ReactGA from 'react-ga'
+import { GA_TRACKING_ID } from './config'; 
 
 
-const TRACKING_ID = "G-75DWPRS1BG"; //OUR TRACKING ID
-ReactGA.initialize(TRACKING_ID );
-ReactGA.pageview(window.location.pathname + window.location.search);
 
 function App() {
   return (
@@ -36,6 +33,18 @@ function App() {
             name="keywords"
             content="Lean, SixSigma, formación, Certificación, Cursos, Mejora continua, procesos, eficiencia, calidad, transformación digital, consultoría, industria 4.0, Lean manufacturing, Lean services"
         />
+        {/* Agrega el código de seguimiento de Google Analytics */}
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}></script>
+        <script>
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+              window.dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', '${GA_TRACKING_ID}');
+          `}
+        </script>
       </Helmet>
         <div>
             <Navbar />

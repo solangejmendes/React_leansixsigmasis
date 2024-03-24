@@ -38,7 +38,7 @@ export default function CertifLssyb() {
                                 <ul>
                                     <li>Comprender Lean Six Sigma y la metodología DMAIC.</li>
                                     <li>Aprender y aplicar habilidades en gestión de proyectos, gestión de procesos, lean, gestión del cambio y análisis estadístico básico.</li>
-                                    <li>Comprender las funciones six sigma</li>
+                                    <li>Comprender las funciones Six Sigma</li>
                                     <li>Saber avanzar con el proyecto de fase a fase de la metodología.</li>
                                     <li>Al finalizar, cerrar proyecto y contabilizar beneficios alcanzados.</li>
                                     <li>Aplicar análisis estadístico básico.</li>
@@ -81,7 +81,7 @@ export default function CertifLssyb() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                    Modalidad online en directo vía Zoom. Para presenciales o in company contactanos.  
+                                    Modalidad online en directo vía Zoom. Para presenciales o in company contáctanos.  
                                 </p>
                             </div>
                         </div>
@@ -334,13 +334,13 @@ export default function CertifLssyb() {
                                             Fase Medir
                                             <ul>
                                                 <li>
-                                                    Caracteristicas criticas de calidad
+                                                    Características críticas de calidad
                                                 </li>
                                                 <li>
-                                                    Medidas basicas
+                                                    Medidas básicas
                                                 </li>
                                                 <li>
-                                                    Desviación estandar
+                                                    Desviación estándar
                                                 </li>
                                             </ul>
                                         </li                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                >

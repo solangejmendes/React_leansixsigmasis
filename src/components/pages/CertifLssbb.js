@@ -88,7 +88,7 @@ export default function CertifLssbb() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                    Modalidad online en directo vía Zoom. Para presenciales o in company contactanos.  
+                                    Modalidad online en directo vía Zoom. Para presenciales o in company contáctanos.  
                                 </p>
                             </div>
                         </div>
@@ -271,10 +271,10 @@ export default function CertifLssbb() {
                                             </ul>
                                         </li>
                                         <li>
-                                            Estratégia y despliegue
+                                            Estrategia y despliegue
                                             <ul>
                                                 <li>
-                                                    Estratégia Hoshin Kanri
+                                                    Estrategia Hoshin Kanri
                                                 </li>
                                                 <li>
                                                     Alineamiento estratégico
@@ -365,7 +365,7 @@ export default function CertifLssbb() {
                                                     Sistema Pull y Push
                                                 </li>
                                                 <li>
-                                                    Análisis de regresión multi-linear
+                                                    Análisis de regresión multilínear
                                                 </li>
                                                 <li>
                                                     Estadística inferencial

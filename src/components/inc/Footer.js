@@ -70,7 +70,7 @@ export default function Footer() {
                                 <p className="text-white text-center">
                                     Designed by:  
                                     <a href="http://www.appsleanit.com/" className="web social" target="_blank" rel="noopener noreferrer">AppsLeanIT</a>
-                                    in 2023
+                                    in 2024
                                 </p>                
                             </div>
                         </div>

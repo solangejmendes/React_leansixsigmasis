@@ -85,7 +85,7 @@ export default function CertifLssmbb() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                    Modalidad online en directo vía Zoom. Para presenciales o in company contactanos.  
+                                    Modalidad online en directo vía Zoom. Para presenciales o in company contáctanos.  
                                 </p>
                             </div>
                         </div>

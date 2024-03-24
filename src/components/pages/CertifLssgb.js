@@ -83,7 +83,7 @@ export default function CertifLssgb() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                    Modalidad online en directo vía Zoom. Para presenciales o in company contactanos.  
+                                    Modalidad online en directo vía Zoom. Para presenciales o in company contáctanos.  
                                 </p>
                             </div>
                         </div>
@@ -277,7 +277,7 @@ export default function CertifLssgb() {
                                             </ul>
                                         </li>
                                         <li>
-                                            Estratégia y despliegue
+                                            Estrategia y despliegue
                                             <ul>
                                                 <li>
                                                     Alineamiento estratégico
@@ -334,7 +334,7 @@ export default function CertifLssgb() {
                                                     Mapa de Procesos
                                                 </li>
                                                 <li>
-                                                    VSM - Mapa de CAdena de Valor
+                                                    VSM - Mapa de Cadena de Valor
                                                 </li>
                                                 <li>
                                                     Mudas y desperdicios lean
@@ -369,7 +369,7 @@ export default function CertifLssgb() {
                                                     Takt Time 
                                                 </li>
                                                 <li>
-                                                    Estadistica Six Sigma 
+                                                    Estadística Six Sigma 
                                                 </li>
                                                 <li>
                                                     Tipo de datos 
@@ -384,13 +384,13 @@ export default function CertifLssgb() {
                                                     Cartas de control Xbar-R 
                                                 </li>
                                                 <li>
-                                                    Estbilidad y consistencia de los datos 
+                                                    Estabilidad y consistencia de los datos 
                                                 </li>
                                                 <li>
                                                     La capacidad de proceso 
                                                 </li>
                                                 <li>
-                                                    El calculo del nivel de sigma 
+                                                    El cálculo del nivel de sigma 
                                                 </li>
                                             </ul>
                                         </li>
@@ -419,7 +419,7 @@ export default function CertifLssgb() {
                                                     8D
                                                 </li>
                                                 <li>
-                                                    Análisis gráfica de datos
+                                                    Análisis gráfico de datos
                                                 </li>
                                                 <li>
                                                     Series temporales
@@ -428,7 +428,7 @@ export default function CertifLssgb() {
                                                     Estratificación
                                                 </li>
                                                 <li>
-                                                    Correlación y regreción
+                                                    Correlación y regresión
                                                 </li>
                                                 <li>
                                                     Regresión linear simple
@@ -462,7 +462,7 @@ export default function CertifLssgb() {
                                                     Cálculo del coste base del proceso
                                                 </li>
                                                 <li>
-                                                    Análisis de coste / benefício                                                
+                                                    Análisis de coste / beneficio                                                
                                                 </li>
                                                 <li>
                                                     Coste de la cadena de valor
@@ -517,7 +517,7 @@ export default function CertifLssgb() {
                                                     Comunicación de los entregables del proyecto
                                                 </li>
                                                 <li>
-                                                    Repicación y ciclo de mejora continua
+                                                    Replicación y ciclo de mejora continua
                                                 </li>
                                             </ul>
                                         </li>

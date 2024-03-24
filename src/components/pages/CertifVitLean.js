@@ -51,7 +51,7 @@ export default function CertifVitLean() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                    En este tipo de formación puedes coger una herramienta específicas y especializarte en ella. Las herramientas que tenemos son:  
+                                    En este tipo de formación puedes coger una herramienta específica y especializarte en ella. Las herramientas que tenemos son:  
                                </p>
                                <ul>
                                     <li>SMED</li>
@@ -92,7 +92,7 @@ export default function CertifVitLean() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                    Modalidad online en directo vía Zoom. Para presenciales o in company contactanos.  
+                                    Modalidad online en directo vía Zoom. Para presenciales o in company contáctanos.  
                                 </p>
                             </div>
                         </div>

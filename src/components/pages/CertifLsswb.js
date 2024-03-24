@@ -73,7 +73,7 @@ export default function CertifLsswb() {
                             </div>
                             <div className="col-md-12 left">
                                 <p>
-                                    Modalidad online en directo vía Zoom. Para presenciales o in company contactanos.  
+                                    Modalidad online en directo vía Zoom. Para presenciales o in company contáctanos.  
                                 </p>
                             </div>
                         </div>
@@ -247,15 +247,15 @@ export default function CertifLsswb() {
                                                     Principios de six sigma
                                                 </li>
                                                 <li>
-                                                    Desafios de lean six sigma
+                                                    Desafíos de lean six sigma
                                                 </li>
                                             </ul>
                                         </li>
                                         <li>
-                                            Historía de six sigma y aplicación
+                                            Historia de six sigma y aplicación
                                             <ul>
                                                 <li>
-                                                    Control estadistico de proceso
+                                                    Control estadístico de proceso
                                                 </li>
                                                 <li>
                                                     Mejora de proceso continua: Toyota y lean
@@ -266,13 +266,13 @@ export default function CertifLsswb() {
                                             </ul>
                                         </li>
                                         <li>
-                                            Otros procesos de mejora y metodos de calidad
+                                            Otros procesos de mejora y métodos de calidad
                                             <ul>
                                                 <li>
                                                     Programas de mejora continua
                                                 </li>
                                                 <li>
-                                                    ¿Cuándo usar six sigma y lean?
+                                                    ¿Cuándo usar Six Sigma y Lean?
                                                 </li>
                                             </ul>
                                         </li>
